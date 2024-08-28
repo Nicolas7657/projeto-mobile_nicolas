@@ -14,7 +14,7 @@ if (!isNaN(valor)) {
     celula.textContent = valor;
 
     document.getElementById('valor').value = '';
-    document.getElementById('Valor').focus();
+    document.getElementById('valor').focus();
   }
 }
 
